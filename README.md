@@ -21,10 +21,6 @@ This iOS app demonstrates interactive 3D model loading, placement, and rendering
 - **Language:** Swift  
 - **Frameworks:** ARKit, SceneKit, UIKit  
 - **3D Model:** `Perfume.usdz`
-
-
-## 💼 Keywords / Tags
-Swift · iOS · UIKit · ARKit · SceneKit · 3D Modeling · USDZ · Augmented Reality · Apple Developer · Xcode · Git · UI/UX
 ---
 
 ## 📸 Screenshots
